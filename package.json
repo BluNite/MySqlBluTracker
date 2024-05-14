@@ -1,0 +1,19 @@
+{
+  "name": "mysql-blu-employee-tracker",
+  "version": "1.0.0",
+  "description": "mysql database employee tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BluNite/MySqlBluTracker.git"
+  },
+  "author": "BluNite (Nkenge Crowe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BluNite/MySqlBluTracker/issues"
+  },
+  "homepage": "https://github.com/BluNite/MySqlBluTracker#readme"
+}
